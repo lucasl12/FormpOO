@@ -50,7 +50,7 @@
         android:layout_marginStart="8dp"
         android:ems="10"
         android:hint="Data de inicio (01/02/2018)"
-        android:inputType="textPersonName"
+        android:inputType="date"
         app:layout_constraintBottom_toTopOf="@+id/datafinal"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
@@ -65,7 +65,7 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:ems="10"
-        android:inputType="textPersonName"
+        android:inputType="date"
         android:hint="Data de término(2/02/2018)"
         app:layout_constraintBottom_toTopOf="@+id/quantidadef"
         app:layout_constraintEnd_toEndOf="parent"

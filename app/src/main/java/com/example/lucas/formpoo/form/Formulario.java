@@ -17,7 +17,7 @@ public class Formulario {
 
 
 
-    public Formulario(String nomeFormulario, String descricaoFormulario, String dataInicio, String dataFinal,
+    /*public Formulario(String nomeFormulario, String descricaoFormulario, String dataInicio, String dataFinal,
                       ArrayList<Pergunta> pergunta) {
         super();
         this.nomeFormulario = nomeFormulario;
@@ -25,7 +25,7 @@ public class Formulario {
         this.dataInicio = dataInicio;
         this.dataFinal = dataFinal;
         this.pergunta = pergunta;
-    }
+    } */
     public String getNomeFormulario() {
         return nomeFormulario;
     }
